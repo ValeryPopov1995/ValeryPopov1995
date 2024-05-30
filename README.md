@@ -5,10 +5,15 @@ I did VR projects, PC and phone games, made my own assets and contributed to oth
 
 Give me an interesting technical problem! 🤯
 
+## Public repositories
+🧪 Completing [test tasks](https://github.com/ValeryPopov1995?tab=repositories&q=examination&type=&language=&sort=)
+
+🤝 Contribution to [programming community](https://github.com/ValeryPopov1995?tab=repositories&q=&type=fork&language=&sort=)
+
 ## 🎮 My stack
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,git,visualstudio,blender,firebase,ps,arduino)](https://skillicons.dev)
 ### Plugins
-[Zenject](https://github.com/modesttree/Zenject),
+- [Zenject](https://github.com/modesttree/Zenject),
 [UniTask](https://github.com/Cysharp/UniTask),
 [FMOD](https://www.fmod.com/),
 ECS ([LeoECS-Lite](https://github.com/Leopotam/ecslite)),
@@ -20,7 +25,7 @@ NUnit,
 [RayFire](https://assetstore.unity.com/packages/tools/game-toolkits/rayfire-for-unity-148690),
 [Goap](https://github.com/crashkonijn/GOAP)
 
-[Autohand](https://assetstore.unity.com/packages/tools/game-toolkits/auto-hand-vr-interaction-165323),
+- [Autohand](https://assetstore.unity.com/packages/tools/game-toolkits/auto-hand-vr-interaction-165323),
 OpenXR
 
 ## Stats
