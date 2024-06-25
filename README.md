@@ -29,8 +29,8 @@ NUnit,
 OpenXR
 
 ## Stats
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valerypopov1995&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="valerypopov1995" /></a>
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ValeryPopov)](https://github.com/ignacio-cuadra/github-readme-codewars)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valerypopov1995&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="valerypopov1995" /></a>
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ValeryPopov&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valerypopov1995&show_icons=true&locale=en&layout=compact" alt="valerypopov1995" />
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=valerypopov1995&show_icons=true&locale=en" alt="valerypopov1995" /></p>
